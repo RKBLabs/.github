@@ -32,7 +32,7 @@ Whether you're a student, self-taught developer, or early-career professional, R
 New to GitHub or not sure where to begin?  
 Start by [creating your free GitHub account](https://github.com/join), then fork your first lab!
 
-📌 Try [cloudChronicles Lab 001: Disaster Recovery Detective](https://github.com/RKBLabs/cloudchronicles-lab001-disaster-recovery-detective)  
+📌 Try [cloudChronicles Lab 001: Disaster Recovery Detective](https://github.com/RKBLabs/cloudchronicles-lab001)  
 💡 This beginner-friendly lab introduces cloud strategy, Gemini AI, and STAR-based analysis — all in one Colab notebook.
 
 ⚙️ Manage your own labs: [RKB Labs user dashboard](https://labs.rkblueprints.com/dashboard)
