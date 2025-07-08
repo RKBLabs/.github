@@ -14,7 +14,7 @@ New to GitHub or not sure where to begin?
 📚 Whether you're a student, self-taught developer, or early-career professional, RKB Labs helps you turn your learning into launchable work. Start exploring the labs and [RKB Resources](https://docs.rkblueprints.com) across topics like:
 - [Cloud Computing Technology / cloudChronicles]([url](https://github.com/RKBLabs/cloudchronicles-lab001)): https://github.com/RKBLabs/cloudchronicles-lab001
 - [HR Technology / futureHR]([url](https://github.com/RKBLabs/futurehr-lab001)): https://github.com/RKBLabs/futurehr-lab001
-- [Software Development Technology/ appArchitect]([url](https://github.com/RKBLabs/apparchitect-lab001)): https://github.com/RKBLabs/apparchitect-lab001
+- [Software Development Technology / appArchitect]([url](https://github.com/RKBLabs/apparchitect-lab001)): https://github.com/RKBLabs/apparchitect-lab001
 - [Generative AI Technology / genAI]([url](https://github.com/RKBLabs/genai-lab001)): https://github.com/RKBLabs/genai-lab001
 - [Technical Technology / techExposed]([url](https://github.com/RKBLabs/techexposed-lab001)): https://github.com/RKBLabs/techexposed-lab001
 - [Product Technology / designPro]([url](https://github.com/RKBLabs/designpro-lab001)): https://github.com/RKBLabs/designpro-lab001
