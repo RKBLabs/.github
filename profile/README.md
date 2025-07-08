@@ -2,37 +2,32 @@
 
 **RKB Labs** is a sandbox for builders, creators, and technologists to explore hands-on lab assignments, showcase real-world projects, and get discovered by admissions and hiring teams looking for emerging talent.
 
-⚗️ Explore innovative labs  
-🧠 Complete guided STAR-based lab assignments  
-🖼️ Showcase your work in the [RKB Laboratory Gallery](https://labs.rkblueprints.com/projects)  
-🚀 Get visibility for college admissions, portfolio reviews, and tech job pipelines  
-
-Whether you're a student, self-taught developer, or early-career professional, RKB Labs helps you turn your learning into launchable work.  
-
-
-📚 Start exploring the labs and [RKB Resources](https://docs.rkblueprints.com) across topics like:
-- Cloud Computing
-- HR Tech
-- Application Architecture
-- Generative AI
-- DevOps & Technical Literacy
-- Product Design & Prototyping
-- Marketing Technology
-- PRM/Partner Enablement
-- Project Management
-
-💡 Git inspired. Build your blueprint.
-
-🔗 Visit the laboratory: [labs.rkblueprints.com](https://labs.rkblueprints.com)  
-
 ---
 
 ### Ready to Git Started?
 
 New to GitHub or not sure where to begin?  
-Start by [creating your free GitHub account](https://github.com/join), then fork your first lab!
+📌 Start by [creating your free GitHub account](https://github.com/join), then fork your first lab!
 
-📌 Try [cloudChronicles Lab 001: Disaster Recovery Detective](https://github.com/RKBLabs/cloudchronicles-lab001)  
-💡 This beginner-friendly lab introduces cloud strategy, Gemini AI, and STAR-based analysis — all in one Colab notebook.
+---
 
+📚 Whether you're a student, self-taught developer, or early-career professional, RKB Labs helps you turn your learning into launchable work.  
+Start exploring the labs and [RKB Resources](https://docs.rkblueprints.com) across topics like:
+- [Cloud Computing Technology / cloudChronicles]([url](https://github.com/RKBLabs/cloudchronicles-lab001))
+- [HR Technology / futureHR]([url](https://github.com/RKBLabs/futurehr-lab001))
+- [Software Development Technology/ appArchitect]([url](https://github.com/RKBLabs/apparchitect-lab001))
+- [Generative AI Technology / genAI]([url](https://github.com/RKBLabs/genai-lab001))
+- [Technical Technology / techExposed]([url](https://github.com/RKBLabs/techexposed-lab001))
+- [Product Technology / designPro]([url](https://github.com/RKBLabs/designpro-lab001))
+- [Marketing Technology / brandBuilder]([url](https://github.com/RKBLabs/brandbuilder-lab001))
+- [Partner Relationship Management Technology / growHub ]([url](https://github.com/RKBLabs/growhub-lab001))
+- [Project Management Technology / projectPal]([url](https://github.com/RKBLabs/projectpal-lab001))
+
+🧠 Complete guided STAR-based lab assignments  
+🖼️ Showcase your work in the [RKB Laboratory Gallery](https://labs.rkblueprints.com/projects)  
+🚀 Get visibility for college admissions, portfolio reviews, and tech job pipelines  
 ⚙️ Manage your own labs: [RKB Labs user dashboard](https://labs.rkblueprints.com/dashboard)
+
+💡 Git inspired. Build your blueprint.
+
+🔗 Visit the laboratory: [labs.rkblueprints.com](https://labs.rkblueprints.com) 
