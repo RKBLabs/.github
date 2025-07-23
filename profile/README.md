@@ -26,7 +26,7 @@ New to GitHub or not sure where to begin?
 🖼️ Showcase your work in the [RKB Laboratory](https://labs.rkblueprints.com/projects)  
 🚀 Get visibility from selection teams such as college admissions, program leads, and talent aqusition in tech
 
-👥 RKB Labs profile with unique Labs link for sharing with ease (ex. [labs.rkblueprints.com/raheemkareem](https://labs.rkblueprints.com/raheemkareem)) 
+👥 RKB Labs profile with unique Labs Link for sharing with ease (ex. [labs.rkblueprints.com/raheemkareem](https://labs.rkblueprints.com/raheemkareem)) 
 
 💡 Git inspired. **Build your blueprint.**
 
