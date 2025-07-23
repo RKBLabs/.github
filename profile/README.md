@@ -31,5 +31,5 @@ New to GitHub or not sure where to begin?
 💡 Git inspired. **Build your blueprint.**
 
 🔗 [Visit the laboratory](https://labs.rkblueprints.com) <br>
-⚙️ [Manage your own labs](https://labs.rkblueprints.com/dashboard)
+⚙️ [Manage your labs from your own dashboard](https://labs.rkblueprints.com/dashboard)
 
