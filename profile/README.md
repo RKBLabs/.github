@@ -7,7 +7,7 @@
 ### Ready to Git Started?
 
 New to GitHub or not sure where to begin?  
-📌 Start by [creating your free GitHub account](https://github.com/join), then fork your first lab!
+📌 Start by [creating your free GitHub account](https://github.com/join), then fork your first lab of choice below!
 
 ---
 
